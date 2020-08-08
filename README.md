@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashwin</h1>
 
-<!--
-**Ashwin1999/ashwin1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Passionate about Artificial Intelligence and Web development</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin1999" alt="https://github.com/ashwin1999" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ashwin1999)
+
+- 💬 Ask me about **Deep learning**
+
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ashwin-bala1999/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashwin1999&show_icons=true" alt="https://github.com/ashwin1999" /> </p>
+
+<p align="center">
+
+<a href="https://twitter.com/AshwinBala14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/AshwinBala14" height="20" width="20" /></a>
+
+<a href="https://linkedin.com/in/ashwin-bala1999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ashwin-bala1999/" height="20" width="20" /></a>
+  
+<a href="https://kaggle.com/ashwinbala1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/ashwinbala1999" height="20" width="20" /></a>
+
+</p>
