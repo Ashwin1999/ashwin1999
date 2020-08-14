@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 
-<h3 align="center">Passionate about Artificial Intelligence and Web development</h3>
+<h3 align="center">Data Scientist who just happens to love Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin1999" alt="https://github.com/ashwin1999" /> </p>
 
