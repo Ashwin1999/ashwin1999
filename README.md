@@ -11,10 +11,10 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ashwin-bala1999/)
 </p>
 <br>
-<a href="https://github.com/ashwin1999/">
+<a href="https://github.com/ashwin1999" style="text-decoration: none;">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashwin1999&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/ashwin1999/">
+<a href="https://github.com/ashwin1999" style="text-decoration: none;">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashwin1999&layout=compact&theme=material-palenight" height=196px/>
 </a>
