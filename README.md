@@ -2,6 +2,16 @@
 
 <h3 align="center">Your friendly neighborhood Data Scientist/Django Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin1999" alt="https://github.com/ashwin1999" /> </p>
+
+- 💻 All of my projects are available at [GitHub](https://github.com/Ashwin1999?tab=repositories)
+
+- 💬 Ask me about **Deep learning**
+
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ashwin-bala1999/)
+</p>
+
+<br>
 
 <a href="https://github.com/ashwin1999" style="text-decoration: none;">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashwin1999&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
@@ -11,18 +21,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashwin1999&layout=compact&theme=material-palenight" height=196px/>
 </a>
 
-
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin1999" alt="https://github.com/ashwin1999" /> </p>
-
-- 💻 All of my projects are available at [GitHub](https://github.com/Ashwin1999?tab=repositories)
-
-- 💬 Ask me about **Deep learning**
-
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ashwin-bala1999/)
-</p>
-<br>
-
 
 <p align="center">
 <br><br><br>
