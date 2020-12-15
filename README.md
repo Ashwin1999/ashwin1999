@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://github.com/ashwin1999" style="text-decoration: none;">
+<a href="https://github.com/ashwin1999" style="text-decoration: none;" align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashwin1999&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/ashwin1999" style="text-decoration: none;">
