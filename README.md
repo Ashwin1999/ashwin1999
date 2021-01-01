@@ -2,8 +2,6 @@
 
 <h3 align="center">Your friendly neighborhood Data Scientist/Django Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin1999" alt="https://github.com/ashwin1999" /> </p>
-
 - 💻 All of my projects are available at [GitHub](https://github.com/Ashwin1999?tab=repositories)
 
 - 💬 Ask me about **Deep learning**
