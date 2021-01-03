@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin1999&" alt="ashwin1999" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin1999&theme=material-palenight" alt="ashwin1999" />
 </p>
 
 <br>
