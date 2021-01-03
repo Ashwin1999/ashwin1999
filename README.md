@@ -2,8 +2,6 @@
 
 <h4 align="center">Data Scientist / Web Developer</h4>
 
-- 💻 All of my projects are available at [GitHub](https://github.com/Ashwin1999?tab=repositories)
-
 - 💬 Ask me about **Deep learning**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ashwin-bala1999/)
