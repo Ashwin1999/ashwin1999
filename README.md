@@ -2,7 +2,7 @@
 
 <h4 align="center">Data Scientist / Web Developer</h4>
 
-- 💬 Ask me about **Deep learning**
+- 💬 Ask me about **Deep learning** and **Web development**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ashwin-bala1999/)
 
