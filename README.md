@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 
+[![Linkedin Badge](https://img.shields.io/badge/-ashwinbala1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwin-bala1999/)](https://www.linkedin.com/in/ashwin-bala1999/) [![Gmail Badge](https://img.shields.io/badge/-ashwinbala1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwinbala1999@gmail.com)](mailto:ashwinbala1999@gmail.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/AshwinBala14.svg?style=social&label=Follow%20%40AshwinBala14)](https://twitter.com/AshwinBala14)
+
 <h4 align="center">Data Scientist / Web Developer</h4>
 
 - 💬 Ask me about **Deep learning** and **Web development**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ashwin-bala1999/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ashwin-bala1999/  )
 
 <br>
 
@@ -14,13 +16,4 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin1999&theme=material-palenight" alt="ashwin1999" />
-</p>
-
-<br>
-
-<p align="center">
-<br><br><br>
-<a href="https://linkedin.com/in/ashwin-bala1999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ashwin-bala1999/" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashwinbala1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/ashwinbala1999" height="30" width="40" /></a>
-<a href="https://twitter.com/AshwinBala14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/AshwinBala14" height="30" width="40" /></a>
 </p>
