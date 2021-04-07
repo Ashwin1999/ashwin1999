@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ashwinbala1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwin-bala1999/)](https://www.linkedin.com/in/ashwin-bala1999/) [![Gmail Badge](https://img.shields.io/badge/-ashwinbala1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwinbala1999@gmail.com)](mailto:ashwinbala1999@gmail.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/AshwinBala14.svg?style=social&label=Follow%20%40AshwinBala14)](https://twitter.com/AshwinBala14)
-
 <h4 align="center">Data Scientist / Web Developer</h4>
+
+[![Linkedin Badge](https://img.shields.io/badge/-ashwinbala1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwin-bala1999/)](https://www.linkedin.com/in/ashwin-bala1999/) [![Gmail Badge](https://img.shields.io/badge/-ashwinbala1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwinbala1999@gmail.com)](mailto:ashwinbala1999@gmail.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/AshwinBala14.svg?style=social&label=Follow%20%40AshwinBala14)](https://twitter.com/AshwinBala14)
 
 - 💬 Ask me about **Deep learning** and **Web development**
 
