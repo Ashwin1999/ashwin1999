@@ -10,6 +10,8 @@
 
 <br>
 
+[![Ashwin's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashwin1999&theme=react-light)](https://github.com/ashwin1999)
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ashwin1999&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </p>
@@ -17,5 +19,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin1999&theme=material-palenight" alt="ashwin1999" />
 </p>
-
-[![Ashwin's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashwin1999&theme=react-light)](https://github.com/ashwin1999)
